@@ -1,4 +1,12 @@
 * {
+  margin-bottom: 30px;
+}
+
+.stamp {
+  height: 120px;
+  border-radius: 20px;
+  background: rgba(255,255,255,0.08);
+  border: 2px solid rgba(255,255,255,0.2);
   display: flex;
   justify-content: center;
   align-items: center;

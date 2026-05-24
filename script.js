@@ -1,3 +1,7 @@
+console.log("JS動作OK");
+console.log(window.location.search);
+
+
 const TOTAL_STAMPS = 4;
 
 const params = new URLSearchParams(window.location.search);
